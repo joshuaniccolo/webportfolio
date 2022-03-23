@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    min-height: 100vh;
+    background: linear-gradient(#2b1055, #7597de);
+}
+
+#navBar{
+    background-color: #2b1055;
+}
+
+h2{
+    color: #2b1055;
+}
+
+#gallery-h2{
+    color: #7597de;
+}
+
+#divPic{
+    width: 300px;
+    height: 300px;
+}
+
+#intro-section{
+    padding: 2rem;
+}
+
+#gallery-section{
+    padding: 2rem;
+}
+
+#skills-section{
+    padding: 2rem;
+}
+
+#contact-section{
+    padding: 2rem;
+}
+
+#skillCard > div{
+    width: 25rem;
+    background-color:#2b1055; 
+}
+
+#button-email{
+    background-color: #2b1055;
+}
+
+i{
+    color: white;
+}
+
+#joshua-pic{
+    width: 300px;
+    height: 300px;
+}
+
+#back-top-button{
+    background-color: #2b1055;
+}
